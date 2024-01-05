@@ -1,4 +1,4 @@
-Ah, got it! fdfind is an abbreviation for fd, which is a fast and user-friendly alternative to find. Here's a cheatsheet for fd:
+fdfind is an abbreviation for fd, which is a fast and user-friendly alternative to find. Here's a cheatsheet for fd:
 
 ### Basic Usage:
 
